@@ -1,1 +1,1 @@
-# Cleaning
+Cleaning, filtering, sorting Netflix data
